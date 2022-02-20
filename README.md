@@ -2,9 +2,9 @@
 
 ABOUT ME 
 
-I am a Frontend Software Developer with a pursuit to lifelong learning, perserverance to problem solving, and a desire to succeed. 
+I am a Frontend Software Developer seeks challenges, lifelong learning, problem solving and I have a desire to succeed. 
 
-In pursuit of becoming a Full Stack Softwar Engineer, I am learning HTML/CSS in the 4th Quarter of 2021 and in the 1st and 2nd Quarters of '22 I am learning with JavaScript, Node.JS, React, Python, MongoDB, Express.
+Laser focused to becoming a Full Stack Software Engineer, learning HTML/CSS in the 4th Quarter of 2021 and in the 1st and 2nd Quarters of '22 I am learning JavaScript, Node.JS, React, Python, MongoDB, Express and learning A11Y project on accessibility.
 
 I have experience working with individuals with dis"Abilities" and I have a strong interest in creating works that make the internet accessible to everyone. 
 
@@ -14,9 +14,9 @@ Achievements: Becoming a Full Stack Engineer in a short amount of time and raisi
 
 THANK YOU
 
-I appreciate the time you took to review my profile. 
+Appreciate the time you took to review my profile. 
 
-<!--
+
 **eternalgil/eternalgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://www.linkedin.com/in/eternalgil 
 - 😄 Pronouns: ... He | Him | His
 - ⚡ Fun fact: ... I enjoy mentoring and teaching others how to code. 
--->
+
